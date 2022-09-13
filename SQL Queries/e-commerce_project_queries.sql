@@ -1,4 +1,4 @@
-#This queries were done in BigQuery 
+#This queries were done in BigQuery using the cleaned file in the "Data" folder
 
 /*1. this query monthly count of sales of each sale type (Regular and Bulge) exluding Cancelled transactions using a subquery in 
 the WHERE clause, this query also includes total monthly sales of each sale type */
